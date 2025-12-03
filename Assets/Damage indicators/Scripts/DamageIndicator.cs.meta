@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 43c3e38a7534b8e448a68ef8ffbe2ead
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180744
+  packageName: Military & survival damage indicator pack
+  packageVersion: 1.0
+  assetPath: Assets/Damage indicators/Scripts/DamageIndicator.cs
+  uploadId: 396456

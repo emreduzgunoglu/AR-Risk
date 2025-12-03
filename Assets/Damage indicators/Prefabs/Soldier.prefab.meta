@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca6cc20258cc6874fbeaa6d1ea97fa27
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180744
+  packageName: Military & survival damage indicator pack
+  packageVersion: 1.0
+  assetPath: Assets/Damage indicators/Prefabs/Soldier.prefab
+  uploadId: 396456

@@ -1,0 +1,3 @@
+repository "ARdeneme/ARdeneme@18968229106264@cloud"
+  path "/"
+    smartbranch "/main/Dev"
